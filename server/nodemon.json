@@ -1,0 +1,5 @@
+{
+  "env": {
+    "SECRET": "some-secret-hash-here"
+  }
+}
